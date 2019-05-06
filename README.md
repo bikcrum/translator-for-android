@@ -12,3 +12,7 @@ python <source-file-name> <language> <destination-file-name>
 ```
 python strings.xml fr string-fr.xml
 ```
+
+##### Make sure you have following dependencies install.
+bs4
+googletrans
