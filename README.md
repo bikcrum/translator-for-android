@@ -16,5 +16,3 @@
 2. Use this command ``python translator-for-android.py <source-string-file> <languages list>``
 3. Example ``python translator-for-android.py source-strings.xml fr`` or  ``python translator-for-android.py source-strings.xml fr,de,nl`` 
 4. After above operation you will get new translated file(s) in current directory
-
-
